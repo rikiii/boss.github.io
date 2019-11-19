@@ -1,0 +1,283 @@
+@media (max-width: 1208px) {
+  .top-comment {
+    width: 100%;
+    padding-left: 0px;
+    padding-top: 150px;
+    padding-bottom: 10px;
+  }
+
+  .top-comment h1 {
+    width: 100%;
+  }
+
+  .side-bar {
+    margin-right: 50px;
+  }
+
+  .location {
+    margin: 0 auto;
+    float: none;
+  }
+
+  .location iframe {
+    margin: 0 auto;
+  }
+
+  .middle-wrapper {
+    height: 1950px;
+  }
+
+  .middle-container {
+    height: 1800px;
+  }
+
+  .about-boss {
+    height: 200px;
+  }
+
+  .news-container {
+    float: none;
+    width: 100%;
+    margin-top: 0px;
+  }
+
+  .news-content p {
+    padding-left: 130px;
+  }
+
+  .interior-container {
+    float: none;
+    width: 100%;
+
+  }
+
+  .hours-container {
+    height: 750px;
+  }
+
+  .hour-info-container {
+    float: none;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 840px) {
+  .top-wrapper {
+    width: 100%;
+  }
+
+  .top-container {
+    width: 100%;
+  }
+
+  .side-bar {
+    width: 100%;
+    height: 60px;
+  }
+
+  .side-bar img {
+    width: 130px;
+    height: 50px;
+    padding: 0px;
+    margin-right: 0px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+  }
+
+  .top-comment .insta {
+    display: block;
+    color: white;
+  }
+
+  .top-comment h3 {
+    color: white;
+    margin: 0px;
+  }
+
+  /* .top-comment i {
+    display: block;
+    color: white;
+  } */
+
+  .insta {
+    display: none;
+  }
+
+  .menu-smartphone {
+    display: block;
+    float: right;
+  }
+
+  .menu-icon {
+    float: right;
+  }
+
+  .fa-bars:before {
+    color: white;
+    display: block;
+    line-height: 60px;
+  }
+
+  .header-menu-smartphone {
+    background-color: rgba(0, 0, 0);
+    display: block;
+    width: 200px;
+    height: 540px;
+    float: right;
+    position: relative;
+    z-index: 5px;
+  }
+
+  .header-menu-smartphone a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    height: 70px;
+    /* position: relative;
+    z-index: 6; */
+  }
+
+  .header-menu-smartphone li:hover {
+    transition: 0.4s;
+    background-color: rgba(255, 255 ,255, 0.8)
+  }
+
+  .header-menu-smartphone li:active {
+    transition: 0s;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+
+  .header-menu-smartphone ul {
+    float: left;
+    padding: 0px;
+    margin-top: 50px;
+  }
+
+  .header-menu-smartphone li {
+    list-style: none;
+    font-size: 20px;
+    line-height: 70px;
+    width: 200px;
+    text-align: center;
+    /* position: relative;
+    z-index: 7px; */
+  }
+
+  .header-menu-smartphone {
+    display: none;
+  }
+
+  .menu-icon {
+    padding-right: 15px;
+  }
+
+  .insta-smartphone {
+    display: block;
+    margin-top: 20px;
+  }
+
+  .top-comment .fa-instagram:before {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+  }
+
+  .header-menu ul{
+    display: none;
+  }
+
+  .top-comment {
+    padding-left: 0px;
+    width: 100%;
+    text-align: center;
+    /* position: relative;
+    z-index: 1px; */
+  }
+
+  .top-comment h1 {
+    font-size: 70px;
+    position: relative;
+    z-index: 1px;
+  }
+
+  .middle-wrapper {
+  }
+
+  .middle-container {
+    height: 1860px;
+  }
+
+  .hours-container {
+    height: 680px;
+  }
+
+  .about-boss {
+    height: 300px;
+  }
+
+  .news-container {
+    height: 400px;
+  }
+
+  .news-content p {
+    padding: 0px;
+  }
+
+  .interior-container {
+    width: 100%
+  }
+
+  .interior-images {
+    width: 350px;
+    height: 260px;
+  }
+
+  .interior-images img {
+    width: 350px;
+    height: 260px;
+    margin: 0 auto;
+  }
+
+  .location {
+    display: none;
+  }
+
+  .location-smartphone {
+    width: 350px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .hour-info-container {
+    margin: 0 auto;
+    width: 350px;
+  }
+
+  .footer-container {
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  .footer-container p {
+    width: 100%;
+  }
+
+  .phone {
+    margin: 0px;
+  }
+
+  .footer-logo {
+    float: none;
+    margin: 0 auto;
+  }
+
+  .footer-container img{
+    float: none;
+    margin: 0 auto;
+  }
+
+}
